@@ -8,7 +8,7 @@ Year 1 student in CUHK
 | Language | Project |
 | :----: | :--- |
 | C | Vending machine |
-| C++ | Dropbox game |
+| C++ | DropBlock game |
 | Java | ATM system simulator |
 
 # What am I trying to do
