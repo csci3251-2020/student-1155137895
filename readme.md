@@ -1,7 +1,7 @@
 # My name
 ***Cyrus Yiu***
 
-# Who I am
+# Who am I
 Year 1 student in CUHK
 
 # Project experiences
@@ -11,13 +11,13 @@ Year 1 student in CUHK
 | C++ | Dropbox game |
 | Java | ATM system simulator |
 
-# WhatWhat I am trying to do
+# What am I trying to do
 1. Finish the degree
 2. Learn more on github
 3. Get a job from good IT company
 4. Keep my emphasis on IT
 
-# Learned subjects (2020)
+# Learned subjects ( ~ 2020 )
 -[x] Data structure <br/>
 -[x] Object oriented programming <br/>
 -[ ] Operation system
