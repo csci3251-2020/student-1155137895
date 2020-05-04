@@ -23,4 +23,4 @@ Year 1 student in CUHK
 - [ ] Operation system
 
 ***Screenshot:***
-![]()
+![Milestone2](https://github.com/csci3251-2020/student-1155137895/blob/master/Screenshot.png)
